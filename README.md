@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..-->
 > [!WARNING] 
-> BAD CONTENT AHEAD. PROCEED WITH CAUTION.
+> BAD CONTENT AHEAD.
+>  PROCEED WITH CAUTION.
 > 
-<a>I code!</a>
+
 
